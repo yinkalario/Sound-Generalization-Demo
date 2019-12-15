@@ -20,4 +20,4 @@ To be appear
 ```
 
 ## Authors
-Yin Cao, Christian Kroos, Qiuqiang Kong, Turab Iqbal
+Yin Cao, Christian Kroos, Qiuqiang Kong, Turab Iqbal, Wenwu Wang, Mark Plumbley
