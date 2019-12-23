@@ -3,7 +3,7 @@ Sound generalization demo. This is the demo from our making sense of sound proje
 
 
 ## Download models
-This is a demo based on our making sense of sound project. Please download the trained model from https://zenodo.org/record/3576602, and save the model in **models** folder.
+This is a demo based on our making sense of sound project. Please download the trained model from https://zenodo.org/record/3576602, and save the model in **models** folder. Please also check our AudioSet work on https://github.com/qiuqiangkong/audioset_tagging_cnn, where the model of this demo is trained.
 
 ## Run
 Simply run 
